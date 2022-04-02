@@ -8,3 +8,11 @@ Na§a aplikacija pruza direktnu pomoc putem svakodnevnih fraza komunikacije, kao
 Svakodnevne fraze komunikacije rasporedjene su po kategorijama radi lakseg i brzeg koriscenja i snalazenja korisnika. Te kategorije obuhvataju razlicite oblasti zivota kao sto su hitni slucajevi, opsti razgovori, vreme i vremenske prilike, zdravlje itd.
 
 Naziv aplikacije potice od latinske reel "surdus"
+
+Koriscene tehnologije: 
+
+HTML
+CSS
+JS
+REACT
+NODEJS
