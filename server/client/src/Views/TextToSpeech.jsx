@@ -45,6 +45,17 @@ const TextToSpeech = () => {
       <a href="/">
         <img style={{ width: "9%", padding: "25px" }} src="small.png"></img>
       </a>
+      <p
+        style={{
+          fontSize: "5rem",
+          fontWeight: "bold",
+          textAlign: "center",
+          marginTop: "-100px",
+        }}
+      >
+        Текст у говор
+      </p>
+
       <ContentWrapper>
         <QuickDialWrapper>
           <QuickDial itemName="hello"></QuickDial>

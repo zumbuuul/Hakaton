@@ -44,7 +44,7 @@ function SpeechToText() {
           marginTop: "-200px",
         }}
       >
-        Govor u Tekst
+        Говор у текст
       </p>
       <MainWrapper>
         <GlobalStyle />
