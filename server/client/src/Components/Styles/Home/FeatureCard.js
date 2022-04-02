@@ -10,6 +10,7 @@ export const CardWrapper = styled.div`
   align-items: center;
   row-gap: 5vh;
   border: 12px solid #3a3845;
+  margin-bottom: 50px;
 `;
 
 export const Title = styled.h1`
@@ -37,7 +38,5 @@ export const ImageWrapper = styled.div`
   &:hover {
     transition: 0.1s;
     box-shadow: 2px 2px 10px black;
-    width: 71%;
-    height: 26vh;
   }
 `;

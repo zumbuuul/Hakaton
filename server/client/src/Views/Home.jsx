@@ -13,8 +13,8 @@ const Home = () => {
           style={{
             position: "absolute",
             width: "7%",
-            top: "30px",
-            left: "30px",
+            top: "50px",
+            left: "50px",
           }}
           src="small.png"
         ></img>
@@ -26,16 +26,15 @@ const Home = () => {
           title="Текст у говор"
           image="tts.png"
           redirect={"/text-to-speech"}
+          description={
+            "у случају када водите конверзацију са особом која не разуме знаковни језик, ова опција Вам омогућава да Ваше мисли изразите кроз речи које ће Ваш уређај изговорати уместо Вас."
+          }
         />
         <FeatureCard
           title="Говор у текст"
           image="stt.png"
           redirect={"/speech-to-text"}
-        />
-        <FeatureCard
-          title="Знаковни језик"
-          image="sign.png"
-          redirect={"/sign-language"}
+          description="Када комуницирате са неком особом која се не сналази у знаковном језику, ово Вам омогућава лакшу конверзацију у облику исписивања њихових речи директно на ваш екран."
         />
       </ContentWrapper>
     </div>

@@ -18,12 +18,7 @@ const FeatureCard = ({ title, description, image, redirect }) => {
             <Image src={image}></Image>
           </a>
         </ImageWrapper>
-        <Description>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci
-          cupiditate expedita hic culpa commodi nostrum sapiente earum,
-          assumenda nihil voluptatem qui rem sed. Reiciendis sit obcaecati sint
-          ut architecto error.
-        </Description>
+        <Description>{description}</Description>
       </CardWrapper>
     </div>
   );
