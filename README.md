@@ -11,6 +11,8 @@ Naziv aplikacije potice od latinske reci "surdus"
 
 Za pravilan rad aplikacije potrebno je da server i client rade u isto vreme.
 
+Govor u tekst je podrzan samo u pretrazivacu Google Chrome
+
 Koriscene tehnologije:
 
 HTML
